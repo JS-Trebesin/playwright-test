@@ -2,7 +2,7 @@
 ## 1. Beautiful Soup
 Vytvoř program, který:
 - pomocí knihovny Beautiful soup projde stránku js-trebesin.github.io/bsoup-exam
-- ze stránky vytáhne prvky, které obsahují text s ingrediencemi k uvaření cibulačky 
+- ze stránky vytáhne prvky, které obsahují text s ingrediencemi k uvaření česnečky 
 - jsou 4, pokud je nemůžeš najít, klikni na tlačítko
 - text ze správných prvků do konzole
 - a také do souboru recept.json
