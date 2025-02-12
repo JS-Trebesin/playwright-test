@@ -1,11 +1,11 @@
 # Test
-## 1. Beatiful Soup
+## 1. Beautiful Soup
 Vytvoř program, který:
 - pomocí knihovny Beautiful soup projde stránku js-trebesin.github.io/bsoup-exam
 - ze stránky vytáhne prvky, které obsahují text s ingrediencemi k uvaření cibulačky 
-- jsou 4,pokud je nemůžeš najít, klikni na tlačítko
-- ingredience vypíše do konzole
-- ingredience zapíše do souboru recept.json
+- jsou 4, pokud je nemůžeš najít, klikni na tlačítko
+- text ze správných prvků do konzole
+- a také do souboru recept.json
 
 *Body za úlohu: ?/60*
 
